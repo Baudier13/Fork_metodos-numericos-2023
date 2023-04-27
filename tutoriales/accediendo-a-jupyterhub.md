@@ -58,12 +58,11 @@ Para trabajar con **jupyterlab** debemos primero instalar los paquetes IJulia y 
 
 1. En la terminal de linux en atom escriba `julia <enter>`. Con esto Debería ingresar a una terminal REPL de julia 1.7.2
 2. Dentro de la termina REPL de Julia ingrese: `using Pkg; Pkg.add("IJulia"); Pkg.add("Plots") <enter>`.
-3. A continuación habra su browser e ingrese la dirección:
-
-`http://localhost:8000`
+3. Luego inicie **jupyterlab** en la consola de Julia escribiendo: `using IJulia; jupyterlab()` 
+4. A continuación habra su browser e ingrese la dirección: `http://localhost:8000`
 
 Le deberá aparecer una pantalla del Jupyterhub remoto en esa dirección. Desde allí, deberá poder ver en **New** la opción de poder crear una notebook de Julia.
 
 ![](assets/julia-en-jupyterhub.png)
 
-4. Para terminar la conección, cierre las páginas abiertas via el puerto `8000`. Cierre la consola REPL de Julia presionando <Ctrl D> y volverá a la terminal de linux en atom. Podrá salir de esta ingresando `exit`.
+5. Para terminar la conección, cierre las páginas abiertas via el puerto `8000`. Cierre la consola REPL de Julia presionando `<Ctrl D>` y volverá a la terminal de linux en atom. Podrá salir de esta ingresando `exit`.
