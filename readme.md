@@ -8,7 +8,7 @@ Repositorio `git` de la materia **Métodos Numéricos** de **FaMAF-UNC**, edici�
 
 * En la carpeta `tutoriales` pueden encontrar distintos tutoriales, incluyendo uno sobre cómo instalar Julia.
 
-* Algunas notas de teórico serán subidas a `teoricos`ambos, en versión `.ipynb` y `.pdf` 
+* Algunas notas de teórico serán subidas a `teoricos` en versión `.ipynb` y `.pdf` 
 
 * Al aula virtual de la materia la pueden encontrar en [https://famaf-nva.aulavirtual.unc.edu.ar/course/view.php?id=19](https://famaf-nva.aulavirtual.unc.edu.ar/course/view.php?id=19)
 
