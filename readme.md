@@ -1,5 +1,11 @@
 # Metodos Numéricos 2023
 
+**HOY 20 Junio de 2023: Clase de consulta virtual**
+
+Link al google meet: [https://meet.google.com/emh-bysc-sch?hs=122&authuser=0](https://meet.google.com/emh-bysc-sch?hs=122&authuser=0)
+
+## Información útil.
+
 Repositorio `git` de la materia **Métodos Numéricos** de **FaMAF-UNC**, edición **2023**.
 
 * Las clases prácticas se llevarán a cabo en los laboratorios de computación de FaMAF (aula 17 para la comisión de Julia).
@@ -12,7 +18,7 @@ Repositorio `git` de la materia **Métodos Numéricos** de **FaMAF-UNC**, edici�
 
 * Al aula virtual de la materia la pueden encontrar en [https://famaf-nva.aulavirtual.unc.edu.ar/course/view.php?id=19](https://famaf-nva.aulavirtual.unc.edu.ar/course/view.php?id=19)
 
-## Útiles
+## Referencias
 
 * Una versión de **Think in Julia** en español: [https://introajulia.org/](https://introajulia.org/).
 
